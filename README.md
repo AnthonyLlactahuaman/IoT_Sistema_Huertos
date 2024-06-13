@@ -9,6 +9,6 @@ El proyecto consiste en desarrollar un sistema de monitoreo de huertos utilizand
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,cs,bots,github" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,c,bots,github" />
   </a>
 </p>
